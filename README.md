@@ -1,4 +1,4 @@
-# START_Hack_Tour_2
+# START_Hack_Tour
 # <p align="center"> Title </p>
 
 ## <p align="center"> Who are we? </p>
