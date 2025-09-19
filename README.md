@@ -2,7 +2,7 @@
 # <p align="center"> Financial News detection: From Raw News to Actionable Insights </p>
 
 ## <p align="center"> Who are we? </p>
-We an independent Zurich-based consultancy specializing in macroeconomic research and capital market insights. We support banks, asset managers, and institutional investors with unbiased analysis and strategy development to turn economic trends into actionable investment decisions.
+We are an independent Zurich-based consultancy specializing in macroeconomic research and capital market insights. We support banks, asset managers, and institutional investors with unbiased analysis and strategy development to turn economic trends into actionable investment decisions.
 
 ## <p align="center"> Case Introduction </p>
 __Problem:__
