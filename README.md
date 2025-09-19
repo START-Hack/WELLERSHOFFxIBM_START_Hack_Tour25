@@ -46,7 +46,8 @@ Saves analysts’ time, increases client responsiveness, and strengthens W&P’s
 
 ## <p align="center"> Deep Dive Slides </p>
 
-PUT THE PDF FILE HERE
+[Financial-News-Detection.pptx](https://github.com/user-attachments/files/22426790/Financial-News-Detection.pptx)
+
 
 ## <p align="center"> Presentation & Deliverables </p>
 
