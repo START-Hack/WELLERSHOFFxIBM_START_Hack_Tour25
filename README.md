@@ -30,6 +30,12 @@ End users are W&P analysts that turn this information to ad hoc communication fo
 - Hackathon teams free to choose stack; W&P provides guidelines and sample inputs.
 - Python
 
+IBM ID erstellen: https://www.ibm.com/docs/en/controller/11.1.1?topic=authentication-ibmid-registration
+
+Orechestrate documentation: https://www.ibm.com/docs/en/watsonx/watson-orchestrate/base?topic=getting-started-watsonx-orchestrate
+
+Cloud Pack for Data: https://developer.ibm.com/learningpaths/get-started-watson-studio/
+
 ## <p align="center"> Use Case </p>
 __Use Case:__
 
