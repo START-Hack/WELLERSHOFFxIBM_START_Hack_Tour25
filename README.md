@@ -81,4 +81,5 @@ __Business Case (10%)__
 - Diana Engetschwiler: AI Strategy / Project Lead at W&P.
 
 ## <p align="center"> Prize</p>
-TBD
+- Exclsuive lunch with Klaus Wellershoff & his team
+- profit from his extensive knowledge in the financial industry as former chief of economist and successful entrepreneur. 
